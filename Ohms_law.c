@@ -4,7 +4,7 @@ int main() {
     int choice;
     float voltage, current, resistance;
 
-    while (1) {
+     
         printf("\nChoose an option:\n");
         printf("1. Calculate Voltage (V)\n");
         printf("2. Calculate Current (I)\n");
