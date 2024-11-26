@@ -22,3 +22,7 @@ int main()
 
     return 0;
 }
+
+/* OUTPUT
+22 is the largest number. */
+
