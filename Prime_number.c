@@ -17,3 +17,6 @@ if (count == 2){
 else
     printf("The given number is not a prime number");
 }
+ /*OUTPUT
+enter a number = 8
+The given number is not a prime number */
