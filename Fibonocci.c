@@ -25,11 +25,3 @@ return 0;
 /* OUTPUT
   No. of terms: 5
 Fibonacci series is: 0 1 1 2 3 */
-
-
-
-
-  //output is
-  no.of terms:5
-fibinocci series is 0,1,1,2,3
-[Process completed - press Enter]
