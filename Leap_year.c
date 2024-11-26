@@ -17,3 +17,6 @@ scanf("%d",&year);
   return 0;
   
    }
+/* OUTPUT
+Enter the year: 2024
+The year is a leap year */
