@@ -13,3 +13,8 @@ int main() {
     
     return 0;
 }
+/* OUTPUT
+Size of int: 4 bytes
+Size of float: 4 bytes
+Size of double: 8 bytes
+Size of char: 1 byte */
