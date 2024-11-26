@@ -15,3 +15,8 @@ m=n;
 printf("the GCD of m and n is %d", GCD);
 return 0;
 }
+
+/* OUTPUT
+Enter the min value: 36
+Enter the max value: 60
+The GCD of the given numbers is: 12 */
