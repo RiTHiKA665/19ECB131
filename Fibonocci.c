@@ -9,7 +9,7 @@ scanf("%d",&n);
   
 //printing of first and second numbers
   
-  printf("%d,%d,",first,second);
+  printf("%d/n%d,",first,second);
   
 //printing of fibin9cci series
   
@@ -22,6 +22,10 @@ scanf("%d",&n);
   
 return 0;
 }
+/* OUTPUT
+  No. of terms: 5
+Fibonacci series is: 0 1 1 2 3 */
+
 
 
 
