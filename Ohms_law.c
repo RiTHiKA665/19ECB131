@@ -53,3 +53,15 @@ int main() {
 
     return 0;
 }
+
+/* OUTPUT
+Choose an option:
+1. Calculate Voltage (V)
+2. Calculate Current (I)
+3. Calculate Resistance (R)
+4. Exit
+Enter your choice (1/2/3/4): 1
+Enter the current (in amperes): 2.5
+Enter the resistance (in ohms): 4.0
+The voltage is: 10.00 volts */
+
