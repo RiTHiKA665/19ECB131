@@ -13,3 +13,9 @@ int sum(int a, int b){
     scanf("%d", &b);
     return a + b;
 }
+
+/* OUTPUT
+enter a = 5
+enter b = 10
+sum of a and b = 15 */
+
