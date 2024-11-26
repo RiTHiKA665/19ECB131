@@ -17,3 +17,10 @@ int main() {
 
     return 0;
 }
+
+/* OUTPUT
+Enter an integer: 5
+Factorial of 5 = 120
+
+Enter an integer: -3
+Factorial of a negative number doesn't exist.*/
