@@ -45,7 +45,7 @@ int main() {
 }
 
 
-//OUTPUR
+//OUTPUT
 Enter the number of elements: 5
 Enter the elements: 
 64 34 25 12 22
