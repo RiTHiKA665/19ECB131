@@ -1,4 +1,4 @@
-## index
+## Index
 
 [HASH TABLE](_hash_table.c)  
 [INFIX TO POSTFIX](_infix_to_postfix.c)  
@@ -14,3 +14,4 @@
 [SORT TECHNIQUE](sort_technique.c)  
 [SPLAY TREE](splay_tree.c)  
 [THREADED BINARY TREE](threaded_binary_tree.c)  
+[COUNTING SORT](counting_sort.c)
