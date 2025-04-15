@@ -15,3 +15,4 @@
 [SPLAY TREE](splay_tree.c)  
 [THREADED BINARY TREE](threaded_binary_tree.c)  
 [COUNTING SORT](counting_sort.c)
+[MERGE SORT](merge_sort.c)
