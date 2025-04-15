@@ -16,3 +16,6 @@
 [THREADED BINARY TREE](threaded_binary_tree.c)  
 [COUNTING SORT](counting_sort.c)
 [MERGE SORT](merge_sort.c)
+[QUICK SORT](quick_sort.c)
+[HEAP SORT](heap_sort.c)
+[RADIX SORT](radix_sort.c)
